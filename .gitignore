@@ -56,7 +56,3 @@ node_modules/
 bower_components/
 .sass-cache/
 /labs/
-/core/
-/effects/
-/utils/
-/index.js
